@@ -30,5 +30,12 @@ How to run temporal self attention for InSAR data
 		format in separate folders for each data batch
 CITE papers
 1. ALADDIn: 
-@ARTICLE{9761207,  author={Shakeel, Anza and Walters, Richard J. and Ebmeier, Susanna K. and Moubayed, Noura Al},  journal={IEEE Transactions on Geoscience and Remote Sensing},   title={ALADDIn: Autoencoder-LSTM-Based Anomaly Detector of Deformation in InSAR},   year={2022},  volume={60},  number={},  pages={1-12},  doi={10.1109/TGRS.2022.3169455}}
+@article{shakeel2022aladdin,
+  title={ALADDIn: Autoencoder-LSTM-Based Anomaly Detector of Deformation in InSAR},
+  author={Shakeel, Anza and Walters, Richard J and Ebmeier, Susanna K and Al Moubayed, Noura},
+  journal={IEEE Transactions on Geoscience and Remote Sensing},
+  volume={60},
+  pages={1--12},
+  year={2022},
+  publisher={IEEE}}
 ---------------------------------------------------------------------------------------------------------------------------------------------------------
